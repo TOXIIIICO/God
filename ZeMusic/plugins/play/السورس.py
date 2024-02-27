@@ -59,7 +59,7 @@ async def huhh(client: Client, message: Message):
         [
             [
                     InlineKeyboardButton(
-                        "‹ ᯓ 𝙳𝙴𝚅 𝙶𝙾𝙳𝚉𝙸𝙻𝙻𝙰 𝅘𝅥𝅯 . 🕷 › ", url=f"https://t.me/@G1_d_U"),
+                        "‹ ᯓ 𝙳𝙴𝚅 𝙶𝙾𝙳𝚉𝙸𝙻𝙻𝙰 𝅘𝅥𝅯 . 🕷 › ", url=f"https://t.me/G1_d_U"),
                 ],[
                     InlineKeyboardButton(
                         "‹ ᯓ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𖠛›", url=f"https://t.me/El_Godzy"), 
